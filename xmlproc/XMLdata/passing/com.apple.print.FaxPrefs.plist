@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmailFax</key>
+	<false/>
+	<key>EmailRecipient</key>
+	<string>andreas.zeller@mac.com</string>
+	<key>FaxNumber</key>
+	<string></string>
+	<key>PrintFax</key>
+	<false/>
+	<key>RingCount</key>
+	<integer>4</integer>
+	<key>SaveFax</key>
+	<true/>
+	<key>SavePath</key>
+	<string>/Users/Shared/Faxes</string>
+	<key>ShareFax</key>
+	<false/>
+</dict>
+</plist>

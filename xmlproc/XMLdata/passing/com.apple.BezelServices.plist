@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acMax</key>
+	<real>1740</real>
+	<key>acMin</key>
+	<real>0.0</real>
+	<key>acTolerance</key>
+	<real>0.0</real>
+	<key>dAuto</key>
+	<integer>1</integer>
+	<key>dFadeSlowSpeed</key>
+	<integer>9600</integer>
+	<key>dFadeSpeed</key>
+	<integer>1000</integer>
+	<key>dOffset</key>
+	<real>0.68063938617706299</real>
+	<key>dSlope</key>
+	<real>1</real>
+	<key>dVariableFadeThreshold</key>
+	<real>0.40000000596046448</real>
+	<key>kAuto</key>
+	<integer>1</integer>
+	<key>kDim</key>
+	<integer>0</integer>
+	<key>kDimTime</key>
+	<real>60</real>
+	<key>kEnabled</key>
+	<integer>1</integer>
+	<key>kFade</key>
+	<integer>500</integer>
+	<key>kFadeOff</key>
+	<integer>500</integer>
+	<key>kFadeOn</key>
+	<integer>350</integer>
+	<key>kHWMax</key>
+	<real>1</real>
+	<key>kHWMin</key>
+	<real>0.073299996554851532</real>
+	<key>kHigh</key>
+	<real>0.46000000834465027</real>
+	<key>kLow</key>
+	<real>0.40200001001358032</real>
+	<key>kManualValue</key>
+	<real>1</real>
+	<key>kOffset</key>
+	<real>0.30000001192092896</real>
+	<key>kSlope</key>
+	<real>10</real>
+</dict>
+</plist>

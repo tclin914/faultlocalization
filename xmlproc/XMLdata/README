@@ -1,0 +1,6 @@
+This is a set of simple XML inputs (actually, configuration files for
+MacOS and its applications).  When parsed by XMLproc, the "failing"
+files issue warnings and errors, while the "passing" files work just fine.  
+
+By comparing the coverage of the "passing" and the "failing" files,
+you should be able to locate the origin of the messages.

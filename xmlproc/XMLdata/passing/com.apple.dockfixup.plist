@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>add-app</key>
+	<array>
+		<dict>
+			<key>after</key>
+			<string>begin</string>
+			<key>path</key>
+			<string>/Applications/Safari.app</string>
+		</dict>
+	</array>
+       <key>move</key>
+       <dict>
+               <key>/Applications/Utilities/Print Center.app</key>
+               <string>/Applications/Utilities/Printer Setup Utility.app</string>
+               <key>/Applications/Utilities/Apple System Profiler.app</key>
+               <string>/Applications/Utilities/System Profiler.app</string>
+       </dict>
+
+	<key>remove-file</key>
+	<dict>
+		<key>/Applications/iMovie.app</key>
+		<string>no-val</string>
+		<key>/Applications/iMovie HD.app</key>
+		<string>no-val</string>
+		<key>/Applications/iPhoto.app</key>
+		<string>no-val</string>
+		<key>/Applications/iTunes.app</key>
+		<string>no-val</string>
+		<key>/Applications/iCal.app</key>
+		<string>no-val</string>
+		<key>/Applications/Utilities/Disk Copy.app</key>
+		<string>no-val</string>
+		<key>/Library/Documentation/Help/MacHelp.help/Contents/Resources/English.lproj/lbn/LateBreakingNews.help</key>
+		<string>no-val</string>
+	</dict>
+	<key>version</key>
+	<string>10.3</string>
+</dict>
+</plist>
